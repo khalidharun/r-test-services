@@ -1,6 +1,6 @@
 #' Describe the package.
 #'
-#' @name package.name
+#' @name test-services
 #' @import stringr
 #' @docType package
 NULL
